@@ -94,11 +94,13 @@ h2 {
 } */
 
 
-/* .link-to-top {
-   width: 30px;
-   height: 30px;
-   background-color: white;
-   border-radius: 50%;
-   line-height: 30px;
-   text-align: center;
-} */
+.link-to-top {
+  color: Black;
+  font-size: 20px;
+  line-height: normal;
+  font-family: 'Fjalla One', sans-serif;
+  margin-top: 150px;
+  margin-left: 1300px;
+  position: fixed;
+  text-shadow: 3px 3px 3px #cccccc;
+}
