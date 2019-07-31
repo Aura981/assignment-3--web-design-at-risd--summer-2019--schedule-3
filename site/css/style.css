@@ -1,0 +1,104 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+body {
+  background-color: #f5f5f5;
+}
+
+h1 {
+  color: Black;
+  font-size: 80px;
+  line-height:150px;
+  font-family: 'Fjalla One', sans-serif;
+  text-shadow: 5px 5px 5px #cccccc;
+
+  text-align: center;
+}
+
+nav {
+  font-size: 20px;
+  line-height: 50px;
+  text-align: center;
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
+
+h2 {
+  color: Black;
+  font-size: 70px;
+  line-height: normal;
+  font-family: 'Fjalla One', sans-serif;
+  transform: rotate(5deg);
+  margin-left: 330px;
+  margin-top: -200px;
+  position: fixed;
+  text-shadow: 3px 3px 3px #cccccc;
+}
+
+.DR {
+  margin-left: 750px;
+  margin-top: 20px;
+}
+
+.DDRR {
+  margin-left: 750px;
+  margin-top: 10px;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 35px;
+}
+
+.DDDRRR {
+  margin-left: 750px;
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
+  font-size: 25px;
+  color: #733c3d;
+}
+
+.img {
+  float:left;
+  margin-left: 250px;
+  width:500px;
+  height:500px;
+}
+
+.p {
+  margin-left:500px;
+  margin-right: 250px;
+  height:500px;
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
+  font-size: 18px;
+  line-height: normal;
+
+}
+
+.subtitle {
+  font-size: 50px;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+/* .img2 {
+  margin-left:500px;
+  margin-right: 250px;
+  height:500px;
+}
+
+.p2 {
+  float:left;
+  margin-left: 250px;
+  width:500px;
+  height:500px;
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
+  font-size: 18px;
+  line-height: normal;
+} */
+
+
+/* .link-to-top {
+   width: 30px;
+   height: 30px;
+   background-color: white;
+   border-radius: 50%;
+   line-height: 30px;
+   text-align: center;
+} */
